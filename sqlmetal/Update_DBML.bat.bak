@@ -1,5 +1,0 @@
-
-"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\SqlMetal.exe" ^
-/server:malh-pc\mssqlserver2012 /database:KG-IMS /user:KGC /password:KGC ^
-/context:KG_IMS_DB /namespace:"KG_IMS.DB" ^
-/dbml:KG_IMS_DB.dbml 
